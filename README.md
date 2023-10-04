@@ -11,7 +11,7 @@
 - Node.JS
 - Css3
 - Html5
-- 
+  
 ### **Blibiotecas**
 
 - "@xenova/transformers": "^2.6.0",
