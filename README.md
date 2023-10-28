@@ -1,6 +1,4 @@
-# NLW-IA-Explorer-2023
-
-## Desafio NLW IA 2023 - Trilha Explorer
+# Desafio NLW IA 2023 - Trilha Explorer
 
 **Shorts Summary** é uma aplicação web criada para gerar resumos de vídeos shorts do YouTube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e criar um resumo. Este projeto é desenvolvido como parte do Desafio NLW IA 2023 na trilha Explorer.
 
