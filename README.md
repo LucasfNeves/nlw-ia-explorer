@@ -2,12 +2,6 @@
 
 **Shorts Summary** é uma aplicação web criada para gerar resumos de vídeos shorts do YouTube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e criar um resumo. Este projeto é desenvolvido como parte do Desafio NLW IA 2023 na trilha Explorer.
 
-## Acesse o Projeto
-
-Para acessar o projeto, clique no link abaixo:
-
-🚀 [Clique aqui e acesse o Projeto](URL_DO_SEU_PROJETO)
-
 ### Tecnologias Utilizadas
 
 O projeto utiliza as seguintes tecnologias:
