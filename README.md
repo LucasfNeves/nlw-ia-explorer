@@ -8,7 +8,7 @@
 
 - **Node.js**: A plataforma Node.js é utilizada para o backend da aplicação.
 
-- **CSS3**: Para estilização e design da interface.
+- **CSS3**: Para estilização e design da interface
 
 - **HTML5**: A linguagem de marcação HTML5 é usada na criação da estrutura da aplicação.
 
